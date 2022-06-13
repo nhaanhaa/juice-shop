@@ -2,7 +2,7 @@
 webapp: 1.0.0
 apps:
   - id: juice-shop
-    name: OWASP Juice Shop
+    name: VNCERT/CC Training
     description: Probably the most modern and sophisticated insecure web application
     control:
       type: docker
